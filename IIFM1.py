@@ -51,7 +51,7 @@ s2 = 'Srilanka'
 
 
 
-
+s1= input()
 
 
 
